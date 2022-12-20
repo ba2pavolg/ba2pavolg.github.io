@@ -10,8 +10,6 @@ paginate = 5 #frontpage pagination
 #hasCJKLanguage = true
 
 
-publishDir = "public"
-
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 
