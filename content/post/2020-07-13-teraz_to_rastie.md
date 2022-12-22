@@ -10,7 +10,7 @@ published: true
 tags:
     - Novinky z poľa
     - Porovnanie
-URL: "/p=281"
+URL: "2020/07/13/teraz_to_rastie"
 categories: [ Pole ]
 ---
 Prešlo presne 38 dní a fóliovník sa zmenil na džungľu. Neveríte? Porovnajte fotky z 5/6/22 a z 13/7/22
