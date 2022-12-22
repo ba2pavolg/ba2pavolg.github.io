@@ -6,20 +6,11 @@
     <description>Recent content in Tags on Mestská Farma Bratislava</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mestskafarmaba.sk/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Istio</title>
-      <link>https://www.mestskafarmaba.sk/tags/istio/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mestskafarmaba.sk/tags/istio/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mestskafarmaba.sk/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tag1</title>
       <link>https://www.mestskafarmaba.sk/tags/tag1/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.mestskafarmaba.sk/tags/tag1/</guid>
       <description></description>
@@ -28,117 +19,27 @@
     <item>
       <title>tag2</title>
       <link>https://www.mestskafarmaba.sk/tags/tag2/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.mestskafarmaba.sk/tags/tag2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ubuntu</title>
-      <link>https://www.mestskafarmaba.sk/tags/ubuntu/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      <title>Novinky z poľa</title>
+      <link>https://www.mestskafarmaba.sk/tags/novinky-z-po%C4%BEa/</link>
+      <pubDate>Wed, 13 Jul 2022 11:00:00 +0000</pubDate>
       
-      <guid>https://www.mestskafarmaba.sk/tags/ubuntu/</guid>
+      <guid>https://www.mestskafarmaba.sk/tags/novinky-z-po%C4%BEa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Microservice</title>
-      <link>https://www.mestskafarmaba.sk/tags/microservice/</link>
-      <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
+      <title>Porovnanie</title>
+      <link>https://www.mestskafarmaba.sk/tags/porovnanie/</link>
+      <pubDate>Wed, 13 Jul 2022 11:00:00 +0000</pubDate>
       
-      <guid>https://www.mestskafarmaba.sk/tags/microservice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>https://www.mestskafarmaba.sk/tags/security/</link>
-      <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
-      
-      <guid>https://www.mestskafarmaba.sk/tags/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kubernetes</title>
-      <link>https://www.mestskafarmaba.sk/tags/kubernetes/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mestskafarmaba.sk/tags/kubernetes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travel</title>
-      <link>https://www.mestskafarmaba.sk/tags/travel/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.mestskafarmaba.sk/tags/travel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Helm</title>
-      <link>https://www.mestskafarmaba.sk/tags/helm/</link>
-      <pubDate>Mon, 16 Apr 2018 15:00:00 +0000</pubDate>
-      
-      <guid>https://www.mestskafarmaba.sk/tags/helm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>API Gateway</title>
-      <link>https://www.mestskafarmaba.sk/tags/api-gateway/</link>
-      <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
-      
-      <guid>https://www.mestskafarmaba.sk/tags/api-gateway/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>service Mesh</title>
-      <link>https://www.mestskafarmaba.sk/tags/service-mesh/</link>
-      <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
-      
-      <guid>https://www.mestskafarmaba.sk/tags/service-mesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://www.mestskafarmaba.sk/tags/docker/</link>
-      <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
-      
-      <guid>https://www.mestskafarmaba.sk/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tips</title>
-      <link>https://www.mestskafarmaba.sk/tags/tips/</link>
-      <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
-      
-      <guid>https://www.mestskafarmaba.sk/tags/tips/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vim</title>
-      <link>https://www.mestskafarmaba.sk/tags/vim/</link>
-      <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
-      
-      <guid>https://www.mestskafarmaba.sk/tags/vim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nginmesh</title>
-      <link>https://www.mestskafarmaba.sk/tags/nginmesh/</link>
-      <pubDate>Tue, 02 Jan 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://www.mestskafarmaba.sk/tags/nginmesh/</guid>
+      <guid>https://www.mestskafarmaba.sk/tags/porovnanie/</guid>
       <description></description>
     </item>
     
