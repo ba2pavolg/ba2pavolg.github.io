@@ -8,7 +8,7 @@ author:     "Palo"
 image:      "/img/redkovky.jpg"
 published: true
 tags:
-    - Novinky z poľa
+    - NovinkyZpoľa
     - Porovnanie
 URL: "2020/07/13/teraz_to_rastie"
 categories: [ Pole ]
