@@ -3,7 +3,7 @@ layout:     post
 title:      "Ručná sejačka, mrkva v zime?"
 subtitle:   ""
 description: ""
-date:       2021-02-03 11:00:00
+date:       2021-02-03
 author:     "Palo"
 image:      "/img/redkovky.jpg"
 published: true

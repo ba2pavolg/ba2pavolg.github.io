@@ -3,7 +3,7 @@ layout:     post
 title:      "Domino efekt"
 subtitle:   ""
 description: ""
-date:       2022-02-14 10:00:00
+date:       2022-02-14
 author:     "Palo"
 image:      "/img/redkovky.jpg"
 published: true

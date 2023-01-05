@@ -3,14 +3,14 @@ layout:     post
 title:      "Silný vietor a volanie jari"
 subtitle:   ""
 description: ""
-date:       2022-02-02 10:00:00
+date:       2022-02-02
 author:     "Palo"
 image:      "/img/mikrohrasok.jpg"
 published: true
 tags:
     - NovinkyZpoľa
 URL: "2022/02/02/silny_vietor"
-categories: [ Pole ]
+categories: [ Pole, Tech ] 
 ---
 Posledný januárový víkend bol náročný. Silný vietor narobil riadnu šarapatu na našom "profi" foliovníku, ktorý sme postavili na jesen 2020 (viac info _[TU](/2020/12/10/Foliovnik_(2_cast)/)_)
 

@@ -3,7 +3,7 @@ layout:     post
 title:      "Všetko rastie"
 subtitle:   ""
 description: ""
-date:       2022-06-05 11:00:00
+date:       2022-06-05
 author:     "Palo"
 image:      "/img/redkovky.jpg"
 published: true

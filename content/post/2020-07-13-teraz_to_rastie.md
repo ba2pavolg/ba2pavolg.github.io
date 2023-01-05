@@ -3,7 +3,7 @@ layout:     post
 title:      "Omyl! Až teraz to rastie. Či?"
 subtitle:   ""
 description: "Novinky z fóliovníka"
-date:       2022-07-13 11:00:00
+date:       2022-07-13
 author:     "Palo"
 image:      "/img/redkovky.jpg"
 published: true
