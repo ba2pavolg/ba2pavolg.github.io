@@ -3,7 +3,7 @@ layout:     post
 title:      "Silný vietor a volanie jari"
 subtitle:   ""
 description: ""
-date:       2022-02-14 10:00:00
+date:       2022-02-02 10:00:00
 author:     "Palo"
 image:      "/img/mikrohrasok.jpg"
 published: true
