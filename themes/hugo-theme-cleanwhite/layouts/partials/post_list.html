@@ -30,6 +30,7 @@
         {{ end }}
     {{ else }}
         <!-- Publikoval: {{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }} dňa {{ .Date.Format "2 Jan 2006" }} -->
+			 Publikované dňa {{ .Date.Format "2 Jan 2006" }}
         <!-- Don't show "Last Modified on" if update happened on the same day. -->
         {{ if (and (not .Lastmod.IsZero) (not (eq (dateFormat "2006-01-02" .Lastmod) (dateFormat "2006-01-02" .Date)))) }}
             <br>Zmenené {{ dateFormat "2 Jan 2006" .Params.LastMod }} 

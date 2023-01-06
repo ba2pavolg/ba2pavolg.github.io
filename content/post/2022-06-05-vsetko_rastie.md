@@ -10,7 +10,7 @@ published: true
 tags:
     - NovinkyZpoľa
     - Porovnanie
-URL: "2020/06/05/vsetko_rastie"
+URL: "2022/06/05/vsetko_rastie"
 categories: [ Pole ]
 ---
 Už dlhšie sme nič nepísali. Dôvod je jednoduchý. Nestíhame. Všetko rastie, zelenina aj burina. Ale keďže nepoužívame žiadnu chémiu, ostáva ju len ručne plieť.
