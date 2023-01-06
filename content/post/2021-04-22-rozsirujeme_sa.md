@@ -12,5 +12,9 @@ categories: [ Tech ]
 ---
 Teda, akože nie osobne, ale rozširujeme počet produkčných hriadok.
 
-Fóliaky sú už zabehnuté, nové hriadky osadene priesadami. Závlaha sa spúšťa. A vôbec, pozrite si pohľad z Vodnej veže.
+Fóliaky sú už zabehnuté, nové hriadky osadene priesadami. Závlaha sa spúšťa. 
+
+A vôbec, pozrite si pohľad z Vodnej veže.
+
 {{< PGvideo video="/img/Pole.mp4" >}}
+
