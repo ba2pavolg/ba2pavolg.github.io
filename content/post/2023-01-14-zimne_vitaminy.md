@@ -9,7 +9,7 @@ image:      "/img/redkovky.jpg"
 published: true
 tags:
   
-URL: "2023/01/14/teraz_to_rastie"
+URL: "2023/01/14/zimne_vitaminy_2023"
 categories: [ Pole ]
 ---
 Aj keď je už polovica januára, zima, chlad, mráz.. (ok ten mráz nie je nijak silný, ale mrzlo), obyčajný nevykurovaný foliovnik dokáže poskytnúť rastinám ochrau pred vetrom a snehodažďom. Rastlinky nie sú tak namáhané, listy nehnijú. Dá sa zberať na doplnenie vitamínov. Nie je to na nejakú komerčnú činnosť, ale na prilepšenie čerstvými mňamkotami to stačí.
