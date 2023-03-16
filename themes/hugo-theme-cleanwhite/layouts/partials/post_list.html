@@ -3,19 +3,19 @@
 {{ range $index, $element := $.Paginator.Pages }}
 <div class="post-preview">
     <a href="{{ .Permalink }}">
-	{{with .Params.nalepka }}
-	<img src="{{ . }}" >
-	{{ end }}
-        <h2 class="post-title">
-            {{ .Title }}
+	   
+		
+		<img align="left"  src="{{ .Params.nalepka }}"><h2 class="post-title">
+            {{ .Title }} 
         </h2>
 	{{with .Params.subtitle }}
         <h3 class="post-subtitle">
             {{ . }}
         </h3>
 	{{ end }}
+	
         <div class="post-content-preview">
-	{{ with .Description }}
+		{{ with .Description }}
             {{ . }}
         {{ else }}
             {{ .Summary}}
