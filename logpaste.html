@@ -1,0 +1,28 @@
+<div class="upload-form">
+  <textarea id="upload-textarea" placeholder="Enter some text"></textarea>
+  <button class="button" id="upload">Upload</button>
+</div>
+<a id="result"></a>
+<div id="error"></div>
+
+<script src="https://logpaste.com/js/logpaste.js"></script>
+<script>
+  const baseUrl = "https://logpaste.com";
+  document.getElementById("upload").addEventListener("click", (evt) => {
+    const resultElement = document.getElementById("result");
+    const errorElement = document.getElementById("error");
+    resultElement.innerText = "";
+    errorElement.innerText = "";
+    const textToUpload = document.getElementById("upload-textarea").value;
+    logpaste
+      .uploadText(textToUpload, baseUrl)
+      .then((id) => {
+        const url = `${baseUrl}/${id}`;
+        resultElement.innerText = url;
+        resultElement.href = url;
+      })
+      .catch((error) => {
+        errorElement.innerText = error;
+      });
+  });
+</script>
