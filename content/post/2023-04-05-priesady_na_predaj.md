@@ -5,7 +5,7 @@ subtitle:   ""
 description: ""
 date:       2023-04-05
 author:     "Palo"
-image:      "/img/redkovky.jpg"
+image:      "/img/priesadky3.jpg"
 nalepka:	"/img/priesada_PREDAJ_mala.jpg"
 published: true
 tags:
