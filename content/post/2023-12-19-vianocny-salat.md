@@ -5,7 +5,7 @@ subtitle:   ""
 description: ""
 date:       2023-12-19
 author:     "Palo"
-image:      "/img/vianocna-claytonia.jpeg"
+image:      "/img/priesadky3.jpg"
 nalepka:	"/img/vianocna-claytonia-MALA.jpeg"
 published: true
 tags:
