@@ -10,7 +10,7 @@ nalepka:	"/img/vianocna-claytonia-MALA.jpeg"
 published: true
 tags:
     - NovinkyZpoľa
- 9
+
 URL: "2023/12/05/Vianocny_salat
 categories: [ Tech]
 ---
