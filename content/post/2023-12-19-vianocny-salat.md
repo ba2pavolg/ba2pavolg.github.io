@@ -6,7 +6,7 @@ description: ""
 date:       2023-12-19
 author:     "Palo"
 image:      "/img/priesadky3.jpg"
-nalepka:	"/img/vianocna-claytonia-MALA.jpeg"
+nalepka:	"/img/vianocna-claytonia-MINI.jpeg"
 published: true
 tags:
     - NovinkyZpoľa
