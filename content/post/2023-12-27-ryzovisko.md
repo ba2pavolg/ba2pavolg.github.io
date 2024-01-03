@@ -28,7 +28,8 @@ Keže niekoľko dní a nocí pršalo, aj vietor bol riadne silný, naše pole sa
  - buď je to predpríprava na nasledujúcu sezónu a pokyn z vesmíru, že máme vysiať ryžu,
  - budeme mať jazero a chovať ryby
  - alebo to máme proste zabaliť a nechat tak
- ![Utopené maliny](/img/rutopene-maliny.jpeg)
+ 
+![Utopené maliny](/img/rutopene-maliny.jpeg)
  Poviem Vám, treba veľa sily hľadať hlboko. Všetok vysiaty-vysadený bôb, cesnak, jarné cibule, špenát, ale aj jahody, ovocne kríky.... môžeme v roku 2024 rovno odpísať.
  
  Či prežijú aj ovocné stromy, keď teraz budu 2-3 mesiace zatopene, ťažko povedať.
