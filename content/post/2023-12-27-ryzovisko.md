@@ -3,7 +3,7 @@ layout:     post
 title:      "Vzdáme to?"
 subtitle:   ""
 description: ""
-date:       2023-12-279
+date:       2023-12-27
 author:     "Palo"
 image:      "/img/priesadky3.jpg"
 nalepka:	"/img/ryzovisko-mini.jpeg"
